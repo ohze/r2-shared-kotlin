@@ -12,9 +12,9 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = "com.github.codetoart"
+group = "com.github.ohze"
 project.archivesBaseName = rootProject.name
-version = "1.0.4-2"
+version = "1.0.8"
 
 android {
     flavorDimensions "testapp"
